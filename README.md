@@ -50,4 +50,4 @@ I build LLM, NLP and machine-learning applications, and I teach AI and data scie
 - **Apps:** Streamlit · FastAPI · Flask · React · Next.js · Node.js · Supabase · MongoDB
 - **Practice:** pytest · GitHub Actions · reproducible pipelines
 
-🏢 [aimtech.pk](https://aimtech.pk/) · 🤗 [Hugging Face](https://huggingface.co/arslanahmed3)
+💼 [LinkedIn](https://www.linkedin.com/in/arslanahmedbhutto/) · ▶️ [YouTube: ArslanCoreAI](https://www.youtube.com/@ArslanCoreAI) · 🤗 [Hugging Face](https://huggingface.co/arslanahmed3) · 🏢 [aimtech.pk](https://aimtech.pk/)
