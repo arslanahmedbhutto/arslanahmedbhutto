@@ -24,7 +24,7 @@ I build LLM, NLP and machine-learning applications, and I teach AI and data scie
 | [**Emotion-Detection-Transformers**](https://github.com/arslanahmedbhutto/Emotion-Detection-Transformers) | Paper code: four fine-tuned Transformers reach ~93% on 6-class emotion detection; models on [Hugging Face](https://huggingface.co/arslanahmed3) |
 | [**nlp-sentiment-emotion-suite**](https://github.com/arslanahmedbhutto/nlp-sentiment-emotion-suite) | TF-IDF models vs a BiLSTM for sentiment (91.4%) and emotion, in a Streamlit app that explains every prediction |
 
-#### 📈 Machine learning & data analysis
+#### 📈 Machine learning, RL & data analysis
 
 | Project | What it does |
 |---|---|
@@ -32,6 +32,8 @@ I build LLM, NLP and machine-learning applications, and I teach AI and data scie
 | [**stock-forecasting-lstm-gru**](https://github.com/arslanahmedbhutto/stock-forecasting-lstm-gru) | Why a price-level LSTM fails (R² −3.4), and an honest evaluation of return forecasts against naive baselines |
 | [**customer-segmentation-kmeans**](https://github.com/arslanahmedbhutto/customer-segmentation-kmeans) | K-Means segments validated with four indices, bootstrap stability and two other algorithms, turned into personas |
 | [**data-analysis-portfolio**](https://github.com/arslanahmedbhutto/data-analysis-portfolio) | Four analyses: Netflix trends, drivers of exam scores, auditing a "98% accurate" churn model, cleaning messy sales data |
+| [**ml-prediction-apps**](https://github.com/arslanahmedbhutto/ml-prediction-apps) | GPA, house-price and salary regression in one Streamlit app; found mixed-in rows that cut house-price error from 245 to 28.5 |
+| [**rl-tictactoe-qlearning**](https://github.com/arslanahmedbhutto/rl-tictactoe-qlearning) | Q-learning tested against a perfect minimax player: self-play reaches 100% optimal moves; training vs random still loses 25% |
 
 #### 👁️ Computer vision
 
