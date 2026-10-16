@@ -13,6 +13,7 @@ I build LLM, NLP and machine-learning applications, and I teach AI and data scie
 | Project | What it does | |
 |---|---|---|
 | [**AI-Student-Assistant**](https://github.com/arslanahmedbhutto/AI-Student-Assistant) | Chat with your PDFs (RAG: FAISS + Ollama embeddings + Llama 3.3 on Groq), summaries, quizzes, OCR | [Live demo](https://aistudentassistant.streamlit.app/) |
+| [**ai-coding-agent**](https://github.com/arslanahmedbhutto/ai-coding-agent) | Self-debugging coding agent: writes Python, runs it, reads tracebacks and fixes itself; 8/8 on a hidden-test benchmark | |
 | [**InsightAgent AI**](https://github.com/arslanahmedbhutto/analysis_agent) | LangChain agent that answers questions about any CSV in plain English and builds charts | [Live demo](https://insightanalysisagent.streamlit.app/) |
 | [**lora-qlora-finetuning**](https://github.com/arslanahmedbhutto/lora-qlora-finetuning) | Measured LoRA vs full fine-tuning: 90.3% vs 91.5% accuracy while training 1.9% of the parameters; QLoRA on a 1.1B LLM | |
 | [**RAG_system**](https://github.com/arslanahmedbhutto/RAG_system) | Retrieval-augmented generation from scratch with FAISS and a chat LLM, evaluated with Precision@k | |
